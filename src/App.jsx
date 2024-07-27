@@ -8,6 +8,18 @@ import Features from './pages/Home/Features'
 
 
 
+
+import About from './pages/Home/About'
+import Contact from './pages/Home/Contact'
+import Blog from './pages/Home/Blog'
+import BlogDetails from './pages/Home/BlogDetails'
+
+
+
+
+
+
+
 const App = () => {
   return (
     <div className='app'>
