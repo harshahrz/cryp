@@ -6,6 +6,8 @@ import Coin from './pages/Coin/Coin'
 import Footer from './components/Footer/Footer'
 import Features from './pages/Home/Features'
 
+import About from './pages/Home/About'
+import Contact from './pages/Home/Contact'
 
 const App = () => {
   return (
