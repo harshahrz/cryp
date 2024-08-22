@@ -18,44 +18,12 @@ Welcome to the **Cryptocurrency Price Tracker**! This website is designed to hel
 ### 📊 Portfolio Tracking (Optional Feature)
 - **Track Your Portfolio:** (Future Feature) Monitor the performance of your own cryptocurrency investments by adding them to your portfolio tracker. View your gains, losses, and overall portfolio value.
 
-## Getting Started
-
-To get started with the Cryptocurrency Price Tracker:
-
-1. **Clone the repository:**
-    
-    `git clone https://github.com/harshahrz/crypto.git`
-    
-   
-2. **Install dependencies:**
-   
-    `cd crypto
-    npm install`
-    
-
-3. **Start the development server:**
-    
-    `npm run dev`
-    
-
-4. **Open the application:**
-   - The application will be running at `http://localhost:3000` by default. Open this URL in your browser to start using the Cryptocurrency Price Tracker.
 
 ## Technologies Used
 
 - **Frontend:** React.js
 - **API:** CoinGecko API (for real-time data and price history)
 - **Styling:** CSS, Bootstrap
-
-## Contribution
-
-We welcome contributions to enhance this project! Whether it's fixing bugs, adding new features, or improving documentation, feel free to fork the repository and submit a pull request.
-
-1. Fork the project
-2. Create your feature branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add YourFeature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a pull request
 
 
 ## Contact
